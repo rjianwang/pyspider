@@ -1,3 +1,3 @@
-Ugly Spider
+Spider
 ===
 A Scrapy learning process.
